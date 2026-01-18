@@ -1,0 +1,13 @@
+{
+  "name": "ralph-wiggum-node-marketplace",
+  "owner": {
+    "name": "tocoro"
+  },
+  "plugins": [
+    {
+      "name": "ralph-wiggum-node",
+      "source": "./",
+      "description": "Windows-compatible Node.js implementation of Ralph Wiggum technique"
+    }
+  ]
+}
