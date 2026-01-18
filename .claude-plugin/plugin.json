@@ -1,0 +1,8 @@
+{
+  "name": "ralph-wiggum-node",
+  "version": "1.0.0",
+  "description": "Windows-compatible Node.js implementation of the Ralph Wiggum technique - continuous self-referential AI loops for interactive iterative development.",
+  "author": {
+    "name": "Based on Daisy Hollman's original, Node.js port for Windows"
+  }
+}
