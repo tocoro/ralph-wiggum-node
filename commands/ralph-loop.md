@@ -1,7 +1,7 @@
 ---
 description: "Start Ralph Wiggum loop in current session"
 argument-hint: "PROMPT [--max-iterations N] [--completion-promise TEXT]"
-allowed-tools: ["Bash(node:*)"]
+allowed-tools: ["Bash(node ${CLAUDE_PLUGIN_ROOT}/scripts/setup-ralph-loop.mjs:*)"]
 hide-from-slash-command-tool: "true"
 ---
 
